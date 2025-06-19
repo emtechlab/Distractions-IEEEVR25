@@ -1,6 +1,6 @@
 # Distractions-IEEEVR25
 
-This repository contains the official codebase for the VR 2024 paper (added in TVCG):  
+This repository contains the official codebase for the VR 2025 paper (added in TVCG):  
 **”Reaction Time as a Proxy for Presence in Mixed Reality with Distraction"**  
 by *Yasra Chandio, Victoria Interrant, and Fatima M. Anwar*
 
